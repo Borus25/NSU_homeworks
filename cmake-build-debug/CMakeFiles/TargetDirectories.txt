@@ -1,0 +1,3 @@
+C:/Users/Borus/Documents/GitHub/NSU_homeworks/cmake-build-debug/CMakeFiles/NSU_homeworks.dir
+C:/Users/Borus/Documents/GitHub/NSU_homeworks/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Borus/Documents/GitHub/NSU_homeworks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
